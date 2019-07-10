@@ -2,6 +2,9 @@ CONFLICT1
 Conflict2
 hello
 <<<<<<< HEAD
+<<<<<<< HEAD
 new line
+=======
+>>>>>>> f9c4c59... Update conflict
 =======
 >>>>>>> f9c4c59... Update conflict
